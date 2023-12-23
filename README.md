@@ -1,1 +1,5 @@
-# so-you-want-to-make-a-video-game
+# So You Want to Create a Video Game
+
+"Now one foot, now the other."
+            -Tomie dePaola
+
