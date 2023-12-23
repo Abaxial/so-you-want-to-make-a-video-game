@@ -1,0 +1,22 @@
+**********************
+* 2023-12-22 ~ 23:11 * 
+**********************
+
+* Set up a miro board for game design.
+* Set up Jira board for game design.
+* Set up repository for storing information learned, links, etc.
+* Mapping out roughly the 'game I want to build'
+* Implemented espanso locally: https://espanso.org/docs/get-started/ Espanso seems really a neat text snippet manager.  
+  Now I can have all the fancy macros like putting the date in any file I'm working within quickly and with panache.
+
+Subconscious Reminders (Kick it forward)
+
+* Document some creators you enjoy/admire so far that have been helpful.
+* Now one step, now the other.  Not all things need be conquored in one day, one weekend, or one month.
+* Document the various roles required to bring a game to a consumer.
+* Think about marketing, bringing others along for the ride, being vulnerable in this exploration.
+* Think about community.
+* Think about the systems that would be required for 'the game I want to build' and break them down.
+  What games can I put together that are smaller, but represent learning required for the eventual destination.
+  Is there anything there that could be a stand alone experiment?
+  What about building games for the kids.  They don't need to be super polished. Include them in the journey.
