@@ -1,0 +1,28 @@
+**********************
+* 2023-12-24 ~ 14:58 * 
+**********************
+
+What have I done today to move myself towards my goal?
+
+* Began to go through the shared lectures from COMP4300 - C++ Game Programming
+  The instructor is fantastic, it's using modern C++ which is common in the game 
+  industry, through the course it teaches a particular pattern of game design
+  and part of the course is building a game engine in C++.  This feels meaty,
+  but should help keep the practical side of my endeavour moving forward.  
+
+* On that end, I was thinking yesterday that I need to keep doing something practical
+  every week.  I can't just research and analyse and write my summaries and learning.
+  Yes it's all good that I want to build a pipeline for sharing my journey
+  but I actually need to take some steps on the journey and not just compile
+  information.  This will be a good first step in that direction.  Not using
+  any particular game engine, but building my own in C++.
+
+Brain Dump (Kick it forward)
+
+* It's Christmas eve.  Having set up my C++ environment and watched/listened to 
+  the first few lectures is good enough for today.  Time for some more time with
+  the family and friends.  
+
+  To all those celebrating holidays with family and friends this weekend, and
+  to all those not: may your next couple of days be in peace and calm.
+
