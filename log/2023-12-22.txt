@@ -2,6 +2,8 @@
 * 2023-12-22 ~ 23:11 * 
 **********************
 
+Today I took these steps towards my goal.
+
 * Set up a miro board for game design.
 * Set up Jira board for game design.
 * Set up repository for storing information learned, links, etc.
@@ -9,7 +11,7 @@
 * Implemented espanso locally: https://espanso.org/docs/get-started/ Espanso seems really a neat text snippet manager.  
   Now I can have all the fancy macros like putting the date in any file I'm working within quickly and with panache.
 
-Subconscious Reminders (Kick it forward)
+Brain Dump (Kick it forward)
 
 * Document some creators you enjoy/admire so far that have been helpful.
 * Now one step, now the other.  Not all things need be conquored in one day, one weekend, or one month.

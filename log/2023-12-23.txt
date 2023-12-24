@@ -1,0 +1,19 @@
+**********************
+* 2023-12-23 ~ 20:30 * 
+**********************
+
+What have I done today to move myself towards my goal?
+
+* Started digesting content about game designer as a role.
+* Started summarizing findings on game designer role.
+
+Brain Dump (Kick it forward)
+
+* How best to structure researched information?  Miro is good for visual organization of data.
+* Github is good for textual data.
+* Jira is good for refined use of data to task out and roadmap / backlog plan.
+* Confluence for distilled information once flowed through github, miro, youtube.
+* Share learnings at some cadence.  Youtube?  Podcast? Blog? All?
+* What cadence?
+* Boost engagement. Tier list videos.
+* Dev videos.
