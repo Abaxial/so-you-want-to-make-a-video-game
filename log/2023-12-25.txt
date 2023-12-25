@@ -1,0 +1,21 @@
+**********************
+* 2023-12-25 ~ 14:16 * 
+**********************
+
+What have I done today to move myself towards my goal?
+
+* This is the lecture I'm working through currently:
+  https://www.youtube.com/watch?v=P_mgIDWpbms&t=1660s
+* It's just refreshing me on c++, which given how far it's come is more like
+  my learning it for the first time.  It doesn't seem as verbose as once it was
+  and as I understand it it's just more modernized.
+* Incidentally, the system/style of the lecture outputs is an Entity Component system.
+* [TODO] Look into other styles of systems for game design/development.
+* https://en.wikipedia.org/wiki/Entity_component_system
+
+Brain Dump (Kick it forward)
+
+* I think I'm going to enjoy this lecture series and the 'projects' included.  
+  I think the split I should go through for now is 60% of the time lecturing
+  and 40% of my time planning / researching / mapping out roles for now.
+
