@@ -1,0 +1,17 @@
+**********************
+* 2023-12-26 ~ 19:43 * 
+**********************
+
+What have I done today to move myself towards my goal?
+
+* Continuing the course.
+* Mostly a family day.
+
+Brain Dump (Kick it forward)
+
+* I don't hate c++.
+* I can understand, given that there's many ways to do the same thing, that it could
+  be difficult to read someone else's code potentially if they do not follow
+  conventions of modern c++ or override defaults, etc.  Would take longer to sus out.
+
+  
