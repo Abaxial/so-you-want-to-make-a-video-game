@@ -6,6 +6,7 @@ What have I done today to move myself towards my goal?
 
 * Continuing the course.
 * Mostly a family day.
+* Vector danger.  No out of bounds error.  Gimme what you got. Now.
 
 Brain Dump (Kick it forward)
 
@@ -14,4 +15,3 @@ Brain Dump (Kick it forward)
   be difficult to read someone else's code potentially if they do not follow
   conventions of modern c++ or override defaults, etc.  Would take longer to sus out.
 
-  
