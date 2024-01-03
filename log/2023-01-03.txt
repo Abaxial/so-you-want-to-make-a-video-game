@@ -1,0 +1,30 @@
+**********************
+* 2024-01-03 ~ 14:08 * 
+**********************
+
+What have I done today to move myself towards my goal?
+
+* Continuing COMP4300.  Enjoying the refresher on C++ modern day style.
+
+Brain Dump (Kick it forward)
+
+* The family is sick today, and I am 'wearing the black' and sat on the wall,
+  sentinel for my family.  Caretaking everyone and pretty weary and bleary.
+* It would be easier, maybe if every one of the kids were sick, but the older two 
+  are bright eyed and bushy tailed painting the walls with their energy.
+* Looking forward to putting the COMP4300 into practice and begin building the
+  game engine from scratch.  It's going to be put together in the ECS style.  That's
+  Entity_component_system structure.
+* Look into these as other patterns for game design used in conjunction or instead of ECS.
+  
+  - Component-based pattern.
+  - Message Bus pattern
+  - Game loop pattern
+  - spatial partition pattern
+  - state machine pattern 
+  - resource pool pattern
+  - plugin pattern 
+  - dirty flag pattern 
+
+
+
