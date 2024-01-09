@@ -1,0 +1,17 @@
+**********************
+* 2024-01-08 ~ 21:29 * 
+**********************
+
+What have I done today to move myself towards my goal?
+
+* Lecture 4 mostly completed.
+* Began digging into SFML for 'assignment 1'.
+* SFML is a graphics library for c++ which we'll be making use of during this course.
+* Assignment 1 just has to do with flexing some of the SFML features to make shapes
+  and have the shapes flying around the screen with text attached.
+
+Brain Dump (Kick it forward)
+
+* Today was a hard day.  Not in this stuff, but in everything else stuff.  Life stuff.
+  
+  One foot. And then the other.
